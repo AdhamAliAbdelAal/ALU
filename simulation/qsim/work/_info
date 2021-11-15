@@ -1,0 +1,161 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/CMP/CMP3/Microprocessors/Quartuz/ALU/simulation/qsim
+v\2_1_mux 
+!s110 1635621584
+!i10b 1
+!s100 K:I34hdk>>8bhGTchU;RX0
+I4Pji5giU:gTUP3=hR]HGP3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1635621584
+Z2 8alu.vo
+Z3 Falu.vo
+Z4 L0 31
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1635621584.000000
+Z6 !s107 alu.vo|
+Z7 !s90 -work|work|alu.vo|
+!i113 1
+Z8 o-work work
+Z9 tCvgOpt 0
+n@1342_1_mux@040
+v\4bitAdder 
+!s110 1635622732
+!i10b 1
+!s100 N<=_eQ?R4cTi@>iZ1]M4R3
+IFdagWle9RVU3edTd=:AG:2
+R1
+R0
+w1635622732
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+!s108 1635622732.000000
+R6
+R7
+!i113 1
+R8
+R9
+n@1344bit@adder@040
+valu
+Z10 !s110 1635624096
+!i10b 1
+!s100 L1]7]I`I4g8B6n4:3gL5G1
+IEHQm_mhTF=8fVXDnZG2jg1
+R1
+R0
+w1635624096
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1635624096.000000
+R6
+R7
+!i113 1
+R8
+R9
+valu_vlg_vec_tst
+R10
+!i10b 1
+!s100 kDbI`;;E>l5B7J7Kd8JSn0
+Io;MeS]T:zTT4h3T2^i=0=3
+R1
+R0
+w1635624094
+8Waveform106.vwf.vt
+FWaveform106.vwf.vt
+Z12 L0 29
+R5
+r1
+!s85 0
+31
+R11
+!s107 Waveform106.vwf.vt|
+!s90 -work|work|Waveform106.vwf.vt|
+!i113 1
+R8
+R9
+vMUX
+!s110 1634402483
+!i10b 1
+!s100 ?cCAEaN[zg[T0zFBRT4gF1
+IIVX2:7>aE07DV[1T82CRB1
+R1
+R0
+w1634402483
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+!s108 1634402483.000000
+R6
+R7
+!i113 1
+R8
+R9
+n@m@u@x
+vMUX_vlg_vec_tst
+!s110 1634402484
+!i10b 1
+!s100 o^Y832h4SHPgTaf1E^fY82
+Ia?Aj^zUI:7X4S1Vkknmf13
+R1
+R0
+w1634402482
+8Waveform15.vwf.vt
+FWaveform15.vwf.vt
+R12
+R5
+r1
+!s85 0
+31
+!s108 1634402484.000000
+!s107 Waveform15.vwf.vt|
+!s90 -work|work|Waveform15.vwf.vt|
+!i113 1
+R8
+R9
+n@m@u@x_vlg_vec_tst
+vreg
+!s110 1635613737
+!i10b 1
+!s100 @Rm9o?SbE74H3I6`LU@z40
+IcmjbP=V9H@1fg<DM@AF>c1
+R1
+R0
+w1635613736
+R2
+R3
+R4
+R5
+r1
+!s85 0
+31
+!s108 1635613737.000000
+R6
+R7
+!i113 1
+R8
+R9
